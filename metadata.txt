@@ -1,0 +1,18 @@
+[general]
+name=GeoPEC
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.9
+description= Controle de qualidade cartografica (acuracia posicional utilizando feicoes lineares). Spatial Data Quality (positional accuracy from linear features)
+about=Plugin para utilizacao no Controle de Qualidade Cartografica, analisando a acuracia posicional a partir de feicoes lineares. Implementa o Metodo Buffer Simples, Metodo Buffer Duplo, Metodo das Areas (Banda Epsilon); Plugin for use in Cartographic Quality Control (Spatial Data Quality), analyzing positional accuracy from linear features. Implements Simple Buffer Method, Double Buffer Method, Area Method (Epsilon Band)
+category=Vector
+version=1.0
+author=Afonso de Paula dos Santos, Patricia dos Santos Teixeira
+email=afonso.santos@ufv.br, patricia.s.teixeira@ufv.br
+tags=acurácia posicional, controle de qualidade cartográfica, feição linear, discrepância, erro, positional accuracy, spatial data quality, linear feature, discrepancie, error
+, assessment accuracy
+homepage=http://www.geopec.com.br
+tracker = https://github.com/afonsoeam/GeoPEC_QGIS.git
+repository=https://github.com/afonsoeam/GeoPEC_QGIS.git
+icon=icon.png
+experimental=False
+deprecated=False
