@@ -8,11 +8,10 @@ category=Vector
 version=1.0
 author=Afonso de Paula dos Santos, Patricia dos Santos Teixeira
 email=afonso.santos@ufv.br, patricia.s.teixeira@ufv.br
-tags=acur·cia posicional, controle de qualidade cartogr·fica, feiÁ„o linear, discrep‚ncia, erro, positional accuracy, spatial data quality, linear feature, discrepancie, error
-, assessment accuracy
+tags=acur√°cia posicional, controle de qualidade cartogr√°fica, fei√ß√£o linear, discrep√¢ncia, erro, positional accuracy, spatial data quality, linear feature, discrepancie, error, assessment accuracy
 homepage=http://www.geopec.com.br
-tracker = https://github.com/afonsoeam/GeoPEC_QGIS.git
-repository=https://github.com/afonsoeam/GeoPEC_QGIS.git
+tracker = https://github.com/afonsoeam/geopec/issues
+repository=https://github.com/afonsoeam/geopec
 icon=icon.png
 experimental=False
 deprecated=False
