@@ -17,16 +17,18 @@ email=afonso.santos@ufv.br, patricia.s.teixeira@ufv.br
 about=Plugin para utilização no Controle de Qualidade Cartográfica, analisando a acurácia posicional a partir de feições lineares. Implementa o Método Buffer Simples, Método Buffer Duplo, Método das áreas (Banda Epsílon). Plugin for use in Cartographic Quality Control (Spatial Data Quality), analyzing positional accuracy from linear features. Implements Simple Buffer Method, Double Buffer Method, Area Method (Epsilon Band)
 
 
-tracker=https://github.com/afonsoeam/GeoPEC_QGIS.git
+tracker=https://github.com/afonsoeam/geopec/issues
 
-repository=https://github.com/afonsoeam/GeoPEC_QGIS.git
-tags=acurácia posicional, controle de qualidade cartográfica, feição linear, discrepância, erro, positional accuracy, spatial data quality, linear feature, discrepancie, error
-, assessment accuracy
+repository=https://github.com/afonsoeam/geopec
+
+tags=acurácia posicional, controle de qualidade cartográfica, feição linear, discrepância, erro, positional accuracy, spatial data quality, linear feature, discrepancie, error, assessment accuracy
+
 homepage=http://www.geopec.com.br
 
 category=Plugins, Vector
 
 icon=icon.png
+
 experimental=False
 
 
